@@ -14,3 +14,7 @@
 - Python(pandas, numpy, matplotlib, seaborn)
 ### Limitations:
 - Next Steps No breakdown by Shipping Mode , Order Region , or Category Name yet — this is the natural next cut and likely where the real "supply chain" story is (e.g. which shipping mode or region drives the delay rate). No statistical test (e.g. t-test) behind the "delay doesn't hurt mean profit much" observation — currently descriptive only.
+
+# preview:
+![Alt text](https://github.com/mohammedsaqlainmalik/Supply-Chain-Analysis/blob/main/Profitibility_chart.png)
+![Alt text](https://github.com/mohammedsaqlainmalik/Supply-Chain-Analysis/blob/main/delay%20vs%20mean_profit.png)
